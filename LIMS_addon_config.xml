@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2022-08-12T20:25:07">
+<tmpLocalSettings>
+<strTokenName>strLimsDbPath</strTokenName>
+<strTokenValue>c:\users\stefa\OneDrive\Stable Isotope Analysis\new LIMS development\Demo\IHL LIMS DATABASE_2020-09-12_V0.3.ACCDB</strTokenValue>
+</tmpLocalSettings>
+<tmpLocalSettings>
+<strTokenName>strLimsAddonDbPath</strTokenName>
+<strTokenValue>c:\users\stefa\OneDrive\Stable Isotope Analysis\new LIMS development\Demo\LIMS_addon_backend_V0.3.accdb</strTokenValue>
+</tmpLocalSettings>
+<tmpLocalSettings>
+<strTokenName>strLimsProdDbPath</strTokenName>
+<strTokenValue>C:\Users\stefa\OneDrive\Stable Isotope Analysis\new LIMS development\Demo\IHL LIMS DATABASE.ACCDB</strTokenValue>
+</tmpLocalSettings>
+</dataroot>
